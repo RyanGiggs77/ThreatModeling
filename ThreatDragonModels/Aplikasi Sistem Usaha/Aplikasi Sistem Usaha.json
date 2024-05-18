@@ -75,6 +75,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 2,
             "id": "5fcd6971-b292-4422-9e09-6f15628c9dbd",
             "data": {
               "type": "tm.Process",
@@ -88,8 +89,7 @@
               "isWebApplication": false,
               "privilegeLevel": "",
               "threats": []
-            },
-            "zIndex": 2
+            }
           },
           {
             "position": {
@@ -112,8 +112,8 @@
             },
             "visible": true,
             "shape": "actor",
-            "id": "a9abc7df-8503-42df-a9ef-0a9cad25654e",
             "zIndex": 3,
+            "id": "a9abc7df-8503-42df-a9ef-0a9cad25654e",
             "data": {
               "type": "tm.Actor",
               "name": "User",
@@ -639,6 +639,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 12,
             "id": "854057c4-bde9-4d30-a67e-53f6439fe635",
             "data": {
               "type": "tm.Process",
@@ -652,8 +653,7 @@
               "isWebApplication": false,
               "privilegeLevel": "",
               "threats": []
-            },
-            "zIndex": 12
+            }
           },
           {
             "position": {
@@ -679,8 +679,8 @@
             },
             "visible": true,
             "shape": "store",
-            "id": "2765256c-2313-4d37-af94-cc2ec7e76f29",
             "zIndex": 13,
+            "id": "2765256c-2313-4d37-af94-cc2ec7e76f29",
             "data": {
               "type": "tm.Store",
               "name": "Authentication Data",
@@ -717,8 +717,8 @@
             },
             "visible": true,
             "shape": "actor",
-            "id": "683af01f-c94a-4fa4-b77c-459e21f376d8",
             "zIndex": 14,
+            "id": "683af01f-c94a-4fa4-b77c-459e21f376d8",
             "data": {
               "type": "tm.Actor",
               "name": "Dashboard Web ASU",
@@ -751,6 +751,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 16,
             "id": "ce8ae820-35bc-4186-8d53-1f4b152bdfe7",
             "data": {
               "type": "tm.Process",
@@ -764,8 +765,7 @@
               "isWebApplication": false,
               "privilegeLevel": "",
               "threats": []
-            },
-            "zIndex": 16
+            }
           }
         ]
       }
